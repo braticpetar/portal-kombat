@@ -1,9 +1,57 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0" version="28.0.6">
   <diagram name="Page-1" id="so1JJqpvU9YvyPGcFmt_">
-    <mxGraphModel>
+    <mxGraphModel dx="1484" dy="1253" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="pdrYBG3A-3bPAx5jej41-1" value="Combat screen" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="128.75" y="-211" width="162.5" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="pdrYBG3A-3bPAx5jej41-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="-136" width="900" height="462" as="geometry" />
+        </mxCell>
+        <mxCell id="pdrYBG3A-3bPAx5jej41-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-216" y="-116" width="250" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="pdrYBG3A-3bPAx5jej41-4" value="Enemy name" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-179.5" y="-108.5" width="103" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="pdrYBG3A-3bPAx5jej41-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-188" y="-68.5" width="120" height="127" as="geometry" />
+        </mxCell>
+        <mxCell id="pdrYBG3A-3bPAx5jej41-6" value="Enemy sprite" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-177.5" y="-30" width="99" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pdrYBG3A-3bPAx5jej41-7" value="Enemy stats" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="-98" y="-24" width="175" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="pdrYBG3A-3bPAx5jej41-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="153" width="546" height="138" as="geometry" />
+        </mxCell>
+        <mxCell id="pdrYBG3A-3bPAx5jej41-9" value="Console" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="23" y="209" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pdrYBG3A-3bPAx5jej41-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="76" y="-111" width="250" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="pdrYBG3A-3bPAx5jej41-12" value="Player information" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="127.5" y="-68.5" width="147" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pdrYBG3A-3bPAx5jej41-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="379" y="-111" width="250" height="403" as="geometry" />
+        </mxCell>
+        <mxCell id="pdrYBG3A-3bPAx5jej41-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="404" y="-90" width="208" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pdrYBG3A-3bPAx5jej41-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="404" y="-17" width="208" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pdrYBG3A-3bPAx5jej41-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="404" y="58.5" width="208" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pdrYBG3A-3bPAx5jej41-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="404" y="131.5" width="208" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
