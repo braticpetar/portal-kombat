@@ -1,0 +1,48 @@
+Inspired by Rick and Morty's crazy, goofy and diverse aesthetic, and "Doors of Doom" game mechanics, I'm making a simple turn-based roguelike game. 
+
+-----------
+
+Player:
+- Gear:
+  - Main armor (body)
+  - Secondary armor (helmet)
+  - Weapon (arm)
+- Attack range
+- Health
+- Experience
+- Level (at every level you get an upgrade and bonus money)
+- Portal/Elevator gun fluid (number of available battles)
+- Inventory
+
+Enemies:
+- Health
+- Attack range
+- Drop awards
+
+Items (all items have their descirption):
+Consumable items:
+- Foods/Fruits:
+  - Smallest amount
+  - Medium amount
+  - Large amount
+- Healing items/potions:
+  - Small 
+  - Medium
+  - Large
+- Increase max health
+- Increase max damage (temporarly)
+- Deal highest end of damage (temporarly)
+- Increase armor (temporarly)
+- Increase dodge chance (temporarly)
+
+Wearable items:
+- Variety of different main, secondary armors as well as weapons
+- Main idea is that main armors are larger numbers, secondary are lesser, weapons have variety of different attack ranges, maybe include like a bonus element damage
+
+Shop:
+- Ability to purchase armor, weapons, gun fluid, consumables
+
+Enemy types:
+- Simple creeps
+- Elite monsters (can be same as simple, just enhanced)
+- Bosses (every 20-50 levels)
